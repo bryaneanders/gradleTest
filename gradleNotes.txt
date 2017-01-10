@@ -1,0 +1,6 @@
+Install Java 8:
+
+
+Simple setup:
+
+-Source folder: src/main/java/hello
